@@ -1,2 +1,2 @@
 learing git and github
-<a href = "https://codingblock.com">Coding Blocks</a>
+<a href="https://codingblock.com">Coding Blocks</a>
